@@ -1,0 +1,27 @@
+{
+  "name": "ceren-kuru",
+  "version": "1.0.0",
+  "description": "deneme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ceren": "echo 'Ben Ceren'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Ceren Kuru",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.1.0",
+    "nodemailer": "^6.9.1",
+    "simple-is": "^0.2.0"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cerenkuru/ceren-kuru.git"
+  }
+}
